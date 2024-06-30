@@ -1,4 +1,5 @@
 import Main from "../components/Main";
+import Image from "next/image";
 
 const Listings = () => {
   return (
@@ -204,13 +205,13 @@ const Listings = () => {
               </div>
               <div className="fs-s flex items-center">
                 <a href="/_" className="crayons-avatar crayons-avatar--l mr-2">
-                  <img
+                  <Image
                     src="https://res.cloudinary.com/practicaldev/image/fetch/s--10ipr91Y--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/574513/00169428-1345-49d4-bfcd-26db432fd3dc.jpg"
                     alt="Chetan"
                     className="crayons-avatar__image"
                     loading="lazy"
-                    width="32"
-                    height="32"
+                    width={32}
+                    height={32}
                   />
                 </a>
                 <div>
@@ -321,7 +322,7 @@ const Listings = () => {
               </div>
               <div className="fs-s flex items-center">
                 <a href="/_" className="crayons-avatar crayons-avatar--l mr-2">
-                  <img
+                  <Image
                     src="https://res.cloudinary.com/practicaldev/image/fetch/s--3ukSSJNk--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/7272/a72959f4-811a-43da-8f05-0491517c7357.jpg"
                     alt="Jason"
                     className="crayons-avatar__image"
@@ -424,7 +425,7 @@ const Listings = () => {
               </div>
               <div className="fs-s flex items-center">
                 <a href="/_" className="crayons-avatar crayons-avatar--l mr-2">
-                  <img
+                  <Image
                     src="https://res.cloudinary.com/practicaldev/image/fetch/s--10ipr91Y--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/574513/00169428-1345-49d4-bfcd-26db432fd3dc.jpg"
                     alt="Chetan"
                     className="crayons-avatar__image"
@@ -523,7 +524,7 @@ const Listings = () => {
               </div>
               <div className="fs-s flex items-center">
                 <a href="/_" className="crayons-avatar crayons-avatar--l mr-2">
-                  <img
+                  <Image
                     src="https://res.cloudinary.com/practicaldev/image/fetch/s--uJcTMeqw--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/674639/3a6a2fde-5755-4080-91bd-3441f29b67cb.jpg"
                     alt="Kyle Pollock"
                     className="crayons-avatar__image"
@@ -647,7 +648,7 @@ const Listings = () => {
               </div>
               <div className="fs-s flex items-center">
                 <a href="/_" className="crayons-avatar crayons-avatar--l mr-2">
-                  <img
+                  <Image
                     src="https://res.cloudinary.com/practicaldev/image/fetch/s--pQUAeVeR--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/60369/643d7f79-0415-4e80-896b-c591c458348a.jpg"
                     alt="George K."
                     className="crayons-avatar__image"
@@ -758,7 +759,7 @@ const Listings = () => {
               </div>
               <div className="fs-s flex items-center">
                 <a href="/_" className="crayons-avatar crayons-avatar--l mr-2">
-                  <img
+                  <Image
                     src="https://res.cloudinary.com/practicaldev/image/fetch/s--pQUAeVeR--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/60369/643d7f79-0415-4e80-896b-c591c458348a.jpg"
                     alt="George K."
                     className="crayons-avatar__image"
@@ -872,7 +873,7 @@ const Listings = () => {
               </div>
               <div className="fs-s flex items-center">
                 <a href="/_" className="crayons-avatar crayons-avatar--l mr-2">
-                  <img
+                  <Image
                     src="https://res.cloudinary.com/practicaldev/image/fetch/s--zsE2FdvI--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/2939/a11acfc4-249c-4194-8172-29d0dad6b181.png"
                     alt="Brian Rinaldi"
                     className="crayons-avatar__image"
@@ -1001,7 +1002,7 @@ const Listings = () => {
               </div>
               <div className="fs-s flex items-center">
                 <a href="/_" className="crayons-avatar crayons-avatar--l mr-2">
-                  <img
+                  <Image
                     src="https://res.cloudinary.com/practicaldev/image/fetch/s--8IID_Mxq--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/144904/16904e2f-69eb-48a1-9616-84c8c363eeec.png"
                     alt="Raphael Chaula"
                     className="crayons-avatar__image"
@@ -1111,7 +1112,7 @@ const Listings = () => {
               </div>
               <div className="fs-s flex items-center">
                 <a href="/_" className="crayons-avatar crayons-avatar--l mr-2">
-                  <img
+                  <Image
                     src="https://res.cloudinary.com/practicaldev/image/fetch/s--fBggU9EB--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/720588/6e483f07-231f-43be-8319-329d30765d74.jpg"
                     alt="FOLASAYO SAMUEL "
                     className="crayons-avatar__image"
@@ -1221,7 +1222,7 @@ const Listings = () => {
               </div>
               <div className="fs-s flex items-center">
                 <a href="/_" className="crayons-avatar crayons-avatar--l mr-2">
-                  <img
+                  <Image
                     src="https://res.cloudinary.com/practicaldev/image/fetch/s--kVplLJTW--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/247073/e6f9ddee-f9d7-4851-a5c3-49f577231ae2.jpeg"
                     alt="Janetsomehow"
                     className="crayons-avatar__image"
@@ -1346,7 +1347,7 @@ const Listings = () => {
               </div>
               <div className="fs-s flex items-center">
                 <a href="/_" className="crayons-avatar crayons-avatar--l mr-2">
-                  <img
+                  <Image
                     src="https://res.cloudinary.com/practicaldev/image/fetch/s--bhTnvSYs--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/2512/0118448c-8414-450f-9f56-61a7e2ec580c.jpg"
                     alt="Nezir Zahirovic"
                     className="crayons-avatar__image"
@@ -1467,7 +1468,7 @@ const Listings = () => {
                   href="/fivedotco"
                   className="crayons-avatar crayons-avatar--l mr-2"
                 >
-                  <img
+                  <Image
                     src="https://res.cloudinary.com/practicaldev/image/fetch/s--07cY6fvw--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/6783/7f86be8b-258b-4f9e-81b6-975ded7fabf3.png"
                     alt="Five"
                     className="crayons-avatar__image"
@@ -1581,7 +1582,7 @@ const Listings = () => {
               </div>
               <div className="fs-s flex items-center">
                 <a href="/_" className="crayons-avatar crayons-avatar--l mr-2">
-                  <img
+                  <Image
                     src="https://res.cloudinary.com/practicaldev/image/fetch/s--vOCxkNDN--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/172211/362885f2-07a0-473a-bc55-f6d3fe417652.png"
                     alt="Andrej Gajdos"
                     className="crayons-avatar__image"
@@ -1693,7 +1694,7 @@ const Listings = () => {
               </div>
               <div className="fs-s flex items-center">
                 <a href="/_" className="crayons-avatar crayons-avatar--l mr-2">
-                  <img
+                  <Image
                     src="https://res.cloudinary.com/practicaldev/image/fetch/s--vOCxkNDN--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/172211/362885f2-07a0-473a-bc55-f6d3fe417652.png"
                     alt="Andrej Gajdos"
                     className="crayons-avatar__image"
@@ -1786,7 +1787,7 @@ const Listings = () => {
               </div>
               <div className="fs-s flex items-center">
                 <a href="/_" className="crayons-avatar crayons-avatar--l mr-2">
-                  <img
+                  <Image
                     src="https://res.cloudinary.com/practicaldev/image/fetch/s--e-8Kdg78--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/979052/60a8e7c5-ea25-4ebf-9d20-33543d8397a6.png"
                     alt="Ibrahim ben Salah"
                     className="crayons-avatar__image"
@@ -1906,7 +1907,7 @@ const Listings = () => {
               </div>
               <div className="fs-s flex items-center">
                 <a href="/_" className="crayons-avatar crayons-avatar--l mr-2">
-                  <img
+                  <Image
                     src="https://res.cloudinary.com/practicaldev/image/fetch/s--MKf2zxK0--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/1058099/1b4a06ee-242e-46f9-8766-e0bee2cb3655.png"
                     alt="kcherneha"
                     className="crayons-avatar__image"
@@ -2020,7 +2021,7 @@ const Listings = () => {
               </div>
               <div className="fs-s flex items-center">
                 <a href="/_" className="crayons-avatar crayons-avatar--l mr-2">
-                  <img
+                  <Image
                     src="https://res.cloudinary.com/practicaldev/image/fetch/s--kL3tzjfI--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/992067/c151996c-2878-4d29-9827-eac449ced439.jpeg"
                     alt="Murtaza Joo"
                     className="crayons-avatar__image"
@@ -2131,7 +2132,7 @@ const Listings = () => {
               </div>
               <div className="fs-s flex items-center">
                 <a href="/_" className="crayons-avatar crayons-avatar--l mr-2">
-                  <img
+                  <Image
                     src="https://res.cloudinary.com/practicaldev/image/fetch/s--9HLI0fRG--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/695940/333b1689-1ae8-4b89-b079-471d5a3a6636.png"
                     alt="The Plumbing &amp; Electrical Doctor"
                     className="crayons-avatar__image"
@@ -2251,7 +2252,7 @@ const Listings = () => {
               </div>
               <div className="fs-s flex items-center">
                 <a href="/_" className="crayons-avatar crayons-avatar--l mr-2">
-                  <img
+                  <Image
                     src="https://res.cloudinary.com/practicaldev/image/fetch/s--6rxIdzKI--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/989747/e18c27d4-4ba3-4a47-ad6b-25d3fdaf5990.png"
                     alt="kjsisco"
                     className="crayons-avatar__image"
@@ -2361,7 +2362,7 @@ const Listings = () => {
               </div>
               <div className="fs-s flex items-center">
                 <a href="/_" className="crayons-avatar crayons-avatar--l mr-2">
-                  <img
+                  <Image
                     src="https://res.cloudinary.com/practicaldev/image/fetch/s--uZmWvkpr--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/125908/30511f60-a000-454e-9107-cae06dd3a142.jpg"
                     alt="Manjunath"
                     className="crayons-avatar__image"
@@ -2470,7 +2471,7 @@ const Listings = () => {
               </div>
               <div className="fs-s flex items-center">
                 <a href="/_" className="crayons-avatar crayons-avatar--l mr-2">
-                  <img
+                  <Image
                     src="https://res.cloudinary.com/practicaldev/image/fetch/s--100Ltafl--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/1530/abcad3a7-07f7-41ba-9541-a2fcaf40ccc0.png"
                     alt="Developer Nation"
                     className="crayons-avatar__image"
@@ -2594,7 +2595,7 @@ const Listings = () => {
               </div>
               <div className="fs-s flex items-center">
                 <a href="/_" className="crayons-avatar crayons-avatar--l mr-2">
-                  <img
+                  <Image
                     src="https://res.cloudinary.com/practicaldev/image/fetch/s--bhTnvSYs--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/2512/0118448c-8414-450f-9f56-61a7e2ec580c.jpg"
                     alt="Nezir Zahirovic"
                     className="crayons-avatar__image"
@@ -2717,7 +2718,7 @@ const Listings = () => {
               </div>
               <div className="fs-s flex items-center">
                 <a href="/_" className="crayons-avatar crayons-avatar--l mr-2">
-                  <img
+                  <Image
                     src="https://res.cloudinary.com/practicaldev/image/fetch/s--Bx_K-NjX--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/7016/dfda0963-8e0a-4f80-a78b-2ad71a3d32ab.png"
                     alt="Globalping"
                     className="crayons-avatar__image"
@@ -2813,7 +2814,7 @@ const Listings = () => {
               </div>
               <div className="fs-s flex items-center">
                 <a href="/_" className="crayons-avatar crayons-avatar--l mr-2">
-                  <img
+                  <Image
                     src="https://res.cloudinary.com/practicaldev/image/fetch/s--c-q2mXQ7--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/2621/9f60ba91-e078-4981-a2a3-9848e4e4fafa.png"
                     alt="New Relic"
                     className="crayons-avatar__image"
@@ -2923,7 +2924,7 @@ const Listings = () => {
               </div>
               <div className="fs-s flex items-center">
                 <a href="/_" className="crayons-avatar crayons-avatar--l mr-2">
-                  <img
+                  <Image
                     src="https://res.cloudinary.com/practicaldev/image/fetch/s--OFgLIqll--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/972482/f8b4e662-dc9a-4662-905d-591c57abe58e.jpg"
                     alt="Christopher Glikpo"
                     className="crayons-avatar__image"
@@ -3016,7 +3017,7 @@ const Listings = () => {
               </div>
               <div className="fs-s flex items-center">
                 <a href="/_" className="crayons-avatar crayons-avatar--l mr-2">
-                  <img
+                  <Image
                     src="https://res.cloudinary.com/practicaldev/image/fetch/s--RO-D9rwX--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/863939/e9699539-e4ee-4193-9a1e-77dfc9c30044.jpg"
                     alt="Elaammari Abderrahman"
                     className="crayons-avatar__image"
@@ -3119,7 +3120,7 @@ const Listings = () => {
               </div>
               <div className="fs-s flex items-center">
                 <a href="/_" className="crayons-avatar crayons-avatar--l mr-2">
-                  <img
+                  <Image
                     src="https://res.cloudinary.com/practicaldev/image/fetch/s--10ipr91Y--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/574513/00169428-1345-49d4-bfcd-26db432fd3dc.jpg"
                     alt="Chetan"
                     className="crayons-avatar__image"
@@ -3222,7 +3223,7 @@ const Listings = () => {
               </div>
               <div className="fs-s flex items-center">
                 <a href="/_" className="crayons-avatar crayons-avatar--l mr-2">
-                  <img
+                  <Image
                     src="https://res.cloudinary.com/practicaldev/image/fetch/s--zLkQ-2hT--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/362553/37c74277-36d5-4c93-8e03-da51601c4d29.jpeg"
                     alt="Tasha"
                     className="crayons-avatar__image"
@@ -3354,7 +3355,7 @@ const Listings = () => {
               </div>
               <div className="fs-s flex items-center">
                 <a href="/_" className="crayons-avatar crayons-avatar--l mr-2">
-                  <img
+                  <Image
                     src="https://res.cloudinary.com/practicaldev/image/fetch/s--FiUljCOB--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/116507/5e36c5cb-4d47-481e-970a-0e1b996179ef.png"
                     alt="Arek Nawo"
                     className="crayons-avatar__image"
@@ -3478,7 +3479,7 @@ const Listings = () => {
               </div>
               <div className="fs-s flex items-center">
                 <a href="/_" className="crayons-avatar crayons-avatar--l mr-2">
-                  <img
+                  <Image
                     src="https://res.cloudinary.com/practicaldev/image/fetch/s--t4ztq6Xu--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/2525/d477aa66-b1d8-4f2f-9e16-effb9a50ea97.png"
                     alt="EuroPython"
                     className="crayons-avatar__image"
@@ -3595,7 +3596,7 @@ const Listings = () => {
               </div>
               <div className="fs-s flex items-center">
                 <a href="/_" className="crayons-avatar crayons-avatar--l mr-2">
-                  <img
+                  <Image
                     src="https://res.cloudinary.com/practicaldev/image/fetch/s--M4PTn1mi--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/1065295/aab0643d-6271-451e-96e0-b5524feccbb9.png"
                     alt="Vely"
                     className="crayons-avatar__image"
@@ -3707,7 +3708,7 @@ const Listings = () => {
               </div>
               <div className="fs-s flex items-center">
                 <a href="/_" className="crayons-avatar crayons-avatar--l mr-2">
-                  <img
+                  <Image
                     src="https://res.cloudinary.com/practicaldev/image/fetch/s--2Oyhrw_m--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/1079052/02759f20-9d57-413e-976a-5927eea433a5.jpeg"
                     alt="Ramiro Medina"
                     className="crayons-avatar__image"
@@ -3819,7 +3820,7 @@ const Listings = () => {
               </div>
               <div className="fs-s flex items-center">
                 <a href="/_" className="crayons-avatar crayons-avatar--l mr-2">
-                  <img
+                  <Image
                     src="https://res.cloudinary.com/practicaldev/image/fetch/s--aImpBPn2--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/462/1eba8151-95e3-4df8-b2a0-6d6b5a4c9bdd.png"
                     alt="Chingu "
                     className="crayons-avatar__image"
@@ -3930,7 +3931,7 @@ const Listings = () => {
               </div>
               <div className="fs-s flex items-center">
                 <a href="/_" className="crayons-avatar crayons-avatar--l mr-2">
-                  <img
+                  <Image
                     src="https://res.cloudinary.com/practicaldev/image/fetch/s--9g0JCJrm--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/2659/6c3aebbe-3047-4674-89c3-1ef49c9be224.png"
                     alt="LiveChat"
                     className="crayons-avatar__image"
@@ -4041,7 +4042,7 @@ const Listings = () => {
               </div>
               <div className="fs-s flex items-center">
                 <a href="/_" className="crayons-avatar crayons-avatar--l mr-2">
-                  <img
+                  <Image
                     src="https://res.cloudinary.com/practicaldev/image/fetch/s--kVplLJTW--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/247073/e6f9ddee-f9d7-4851-a5c3-49f577231ae2.jpeg"
                     alt="Janetsomehow"
                     className="crayons-avatar__image"
@@ -4164,7 +4165,7 @@ const Listings = () => {
               </div>
               <div className="fs-s flex items-center">
                 <a href="/_" className="crayons-avatar crayons-avatar--l mr-2">
-                  <img
+                  <Image
                     src="https://res.cloudinary.com/practicaldev/image/fetch/s--AooHtSgM--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/869489/15f774ad-6f68-4a86-a289-d16df1693adf.jpeg"
                     alt="Ahmed Radwan"
                     className="crayons-avatar__image"
