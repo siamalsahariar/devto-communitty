@@ -52,10 +52,10 @@ export default function About() {
             </a>
           </p>
           <p>
-            DEV is led by Forem's co-founders
+            DEV is led by Forem&#39;s co-founders
             <a href="https://dev.to/ben">Ben Halpern</a>&#44;
             <a href="https://dev.to/jess">Jess Lee</a>&#44; and
-            <a href="https://dev.to/peter">Peter Frank</a> ("PB&J")&#46;
+            <a href="https://dev.to/peter">Peter Frank</a> (&#34;PB&J&#34;)&#46;
           </p>
           <h2>
             <a href="#team"></a>
