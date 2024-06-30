@@ -14,13 +14,18 @@ export default function About() {
             networked learning. We provide a place for that to happen.
           </p>
           <p>
+            DEV is a community of software developers getting together to help
+            one another out. The software industry relies on collaboration and
+            networked learning. We provide a place for that to happen.
+          </p>
+          <p>
             DEV is built on <a href="https://forem.com">Forem</a>: open source
-            software designed to empower communities. Because our application is{" "}
+            software designed to empower communities. Because our application is
             <a href="https://github.com/forem">open source</a>, you can inspect
             every little detail of the code, or chip in yourself! Forem is
             available for anyone interested in creating similar communities in
-            any niche or passion. Visit our meta Forem,{" "}
-            <a href="https://forem.dev">forem.dev</a> for more information.{" "}
+            any niche or passion. Visit our meta Forem,
+            <a href="https://forem.dev">forem.dev</a> for more information.
           </p>
           <p>
             We believe in transparency and adding value to the ecosystem. We
@@ -43,10 +48,10 @@ export default function About() {
             </a>
           </p>
           <p>
-            DEV is led by Forem's co-founders{" "}
-            <a href="https://dev.to/ben">Ben Halpern</a>,{" "}
-            <a href="https://dev.to/jess">Jess Lee</a>, and{" "}
-            <a href="https://dev.to/peter">Peter Frank</a> ("PB&amp;J").
+            DEV is led by Forem's co-founders
+            <a href="https://dev.to/ben">Ben Halpern</a>,
+            <a href="https://dev.to/jess">Jess Lee</a>, and
+            <a href="https://dev.to/peter">Peter Frank</a> ("PB&J").
           </p>
           <h2>
             <a href="#team"></a>
