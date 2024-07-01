@@ -108,7 +108,7 @@ export default function Videos() {
           </div>
           <div className="media-card--content">
             <h2 className="fs-base mb-2 fw-medium">
-              How Do You Say... "Epoch"
+              How Do You Say... &#34;Epoch&#34;
             </h2>
             <small className="fs-s">Pete Cheslock</small>
           </div>
@@ -263,7 +263,7 @@ export default function Videos() {
           </div>
           <div className="media-card--content">
             <h2 className="fs-base mb-2 fw-medium">
-              I'm planning to build a new OS for embedded smart displays
+              I&#39;m planning to build a new OS for embedded smart displays
             </h2>
             <small className="fs-s">Souvik Paul</small>
           </div>
@@ -374,8 +374,8 @@ export default function Videos() {
           </div>
           <div className="media-card--content">
             <h2 className="fs-base mb-2 fw-medium">
-              "Features of Data Lake Federated Analysis"_Apache Doris Summit
-              2022
+              &#34;Features of Data Lake Federated Analysis&#34;_Apache Doris
+              Summit 2022
             </h2>
             <small className="fs-s">SelectDB</small>
           </div>
@@ -572,7 +572,8 @@ export default function Videos() {
           </div>
           <div className="media-card--content">
             <h2 className="fs-base mb-2 fw-medium">
-              "Design of Multi-Table Materialized View"_Apache Doris Summit 2022
+              &#34;Design of Multi-Table Materialized View&#34;_Apache Doris
+              Summit 2022
             </h2>
             <small className="fs-s">SelectDB</small>
           </div>
@@ -1371,7 +1372,7 @@ export default function Videos() {
           </div>
           <div className="media-card--content">
             <h2 className="fs-base mb-2 fw-medium">
-              Pycraft's Settings Redesign
+              Pycraft&#39;s Settings Redesign
             </h2>
             <small className="fs-s">Tom Jebbo</small>
           </div>
