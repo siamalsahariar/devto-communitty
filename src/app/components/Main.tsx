@@ -46,7 +46,7 @@ export default function Main() {
                   DEV Community is a community of 1,038,202 amazing developers
                 </h2>
                 <p className="color-base-70 mb-4">
-                  We're a place where coders share, stay up-to-date and grow
+                  We&#34;re a place where coders share, stay up-to-date and grow
                   their careers.
                 </p>
                 <div>
@@ -884,8 +884,8 @@ export default function Main() {
                     DEV Community is a community of 1,029,388 amazing developers
                   </h2>
                   <p className="color-base-70 mb-4">
-                    We're a place where coders share, stay up-to-date and grow
-                    their careers.
+                    We&#34;re a place where coders share, stay up-to-date and
+                    grow their careers.
                   </p>
                   <div>
                     <Link
@@ -1889,7 +1889,7 @@ export default function Main() {
                             >
                               <path d="M12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10-4.477 10-10 10zm0-2a8 8 0 100-16 8 8 0 000 16zM11 7h2v2h-2V7zm0 4h2v6h-2v-6z"></path>
                             </svg>
-                            What's a billboard?
+                            What&#34;s a billboard?
                           </a>
                         </li>
                         <li>
@@ -2006,7 +2006,7 @@ export default function Main() {
                               >
                                 <path d="M12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10-4.477 10-10 10zm0-2a8 8 0 100-16 8 8 0 000 16zM11 7h2v2h-2V7zm0 4h2v6h-2v-6z"></path>
                               </svg>
-                              What's a billboard?
+                              What&#34;s a billboard?
                             </a>
                           </li>
                           <li>
@@ -2770,8 +2770,8 @@ export default function Main() {
                     DEV Community is a community of 1,029,834 amazing developers
                   </h2>
                   <p className="align-center mt-1 color-base-60 fs-base">
-                    We're a place where coders share, stay up-to-date and grow
-                    their careers.
+                    We&#34;re a place where coders share, stay up-to-date and
+                    grow their careers.
                   </p>
                   <div
                     className="align-center mt-4"
@@ -5660,7 +5660,7 @@ export default function Main() {
                     aria-labelledby="article-link-1408712"
                     className="crayons-story__hidden-navigation-link"
                   >
-                    Is ByteByteGo and System Design Interview - An insider's
+                    Is ByteByteGo and System Design Interview - An insider&#34;s
                     guide book by Alex Xu Worth it?
                   </a>
                   <div className="crayons-story__body">
@@ -5768,7 +5768,7 @@ export default function Main() {
                           id="article-link-1408712"
                         >
                           Is ByteByteGo and System Design Interview - An
-                          insider's guide book by Alex Xu Worth it?
+                          insider&#34;s guide book by Alex Xu Worth it?
                         </a>
                       </h2>
                       <div className="crayons-story__tags">
@@ -8439,8 +8439,8 @@ export default function Main() {
                     aria-labelledby="article-link-1409618"
                     className="crayons-story__hidden-navigation-link"
                   >
-                    How to automatically mark a conversation as "answered" in
-                    TalkJS{" "}
+                    How to automatically mark a conversation as
+                    &#34;answered&#34; in TalkJS
                   </a>
                   <div className="crayons-story__body">
                     <div className="crayons-story__top">
@@ -9453,7 +9453,7 @@ export default function Main() {
                       className="crayons-link crayons-link--contentful"
                     >
                       <div>
-                        Deploy Katalon's Latest On-Premises Solution for
+                        Deploy Katalon&#34;s Latest On-Premises Solution for
                         Unmatched Testing Capabilities
                       </div>
                       <div className="crayons-link__secondary">products</div>
@@ -9885,7 +9885,7 @@ export default function Main() {
                         href="/_"
                       >
                         7 JavaScript Web APIs to build Futuristic Websites you
-                        didn't&nbsp;know🤯
+                        didn&#34;t&nbsp;know🤯
                       </a>
                     </div>
                   </div>
