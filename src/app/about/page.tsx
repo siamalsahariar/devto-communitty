@@ -10,20 +10,29 @@ export default function About() {
           </h1>
           <p>
             DEV is a community of software developers getting together to help
-            one another out. The software industry relies on collaboration and
-            networked learning. We provide a place for that to happen.
+            one another out&#46; The software industry relies on collaboration
+            and networked learning&#46; We provide a place for that to
+            happen&#46;
           </p>
           <p>
-            DEV is built on <a href="https://forem.com">Forem</a>: open source
-            software designed to empower communities. Because our application is{" "}
-            <a href="https://github.com/forem">open source</a>, you can inspect
-            every little detail of the code, or chip in yourself! Forem is
-            available for anyone interested in creating similar communities in
-            any niche or passion. Visit our meta Forem,{" "}
-            <a href="https://forem.dev">forem.dev</a> for more information.{" "}
+            DEV is a community of software developers getting together to help
+            one another out&#46; The software industry relies on collaboration
+            and networked learning&#46; We provide a place for that to
+            happen&#46;
           </p>
           <p>
-            We believe in transparency and adding value to the ecosystem. We
+            DEV is built on <a href="https://forem.com">Forem</a>&#58; open
+            source software designed to empower communities&#46; Because our
+            application is
+            <a href="https://github.com/forem">open source</a>&#44; you can
+            inspect every little detail of the code&#44; or chip in yourself!
+            Forem is available for anyone interested in creating similar
+            communities in any niche or passion&#46; Visit our meta Forem&#44;
+            <a href="https://forem.dev">forem&#46;dev</a> for more
+            information&#46;
+          </p>
+          <p>
+            We believe in transparency and adding value to the ecosystem&#46; We
             hope you enjoy poking around and participating!
           </p>
           <h2>
@@ -43,10 +52,10 @@ export default function About() {
             </a>
           </p>
           <p>
-            DEV is led by Forem's co-founders{" "}
-            <a href="https://dev.to/ben">Ben Halpern</a>,{" "}
-            <a href="https://dev.to/jess">Jess Lee</a>, and{" "}
-            <a href="https://dev.to/peter">Peter Frank</a> ("PB&amp;J").
+            DEV is led by Forem&#39;s co-founders
+            <a href="https://dev.to/ben">Ben Halpern</a>&#44;
+            <a href="https://dev.to/jess">Jess Lee</a>&#44; and
+            <a href="https://dev.to/peter">Peter Frank</a> (&#34;PB&J&#34;)&#46;
           </p>
           <h2>
             <a href="#team"></a>
@@ -65,9 +74,9 @@ export default function About() {
             </a>
           </p>
           <p>
-            Our team is distributed around the world. We have no office, but we
-            come together online each day to build community and improve the
-            software careers of millions.
+            Our team is distributed around the world&#46; We have no office&#44;
+            but we come together online each day to build community and improve
+            the software careers of millions&#46;
           </p>
           <p>Happy coding ❤️</p>
         </div>
