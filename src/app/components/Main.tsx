@@ -8545,7 +8545,7 @@ export default function Main() {
                           data-preload-image="https://res.cloudinary.com/practicaldev/image/fetch/s--xfJrOzvz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4xw8f3j07j85htdi8rkz.png"
                           id="article-link-1409618"
                         >
-                          How to automatically mark a conversation as "answered"
+                          How to automatically mark a conversation as &#34;answered&#34;
                           in TalkJS
                         </a>
                       </h2>
