@@ -191,9 +191,9 @@ const Listings = () => {
                 <p>
                   I created an application that has many developer related tools
                   in it. Think of it like Swiss Army Knife for Developers. The
-                  developers I've tested it on love the tools but I just don't
-                  have the time to dedicate to it. There's no reason it
-                  shouldn't generate decent revenue.
+                  developers I&#39;ve tested it on love the tools but I just
+                  don&#39;t have the time to dedicate to it. There&#39;s no
+                  reason it shouldn&#39;t generate decent revenue.
                 </p>
                 <p>
                   Try it at <a href="/_">https://www.omkar.cloud/devtools/</a>
@@ -643,7 +643,7 @@ const Listings = () => {
                   We will take you through the curriculum with constant support.{" "}
                 </p>
                 <p>
-                  It's here: <a href="/_">https://bit.ly/30rMAns</a>
+                  It&#39;s here: <a href="/_">https://bit.ly/30rMAns</a>
                 </p>
               </div>
               <div className="fs-s flex items-center">
@@ -746,8 +746,8 @@ const Listings = () => {
                 <p>
                   Yes, in 9 weeks you can learn HTML, CSS, JavaScript, React,
                   Node, Express, mongoDB and React Native and be able to start
-                  working as a junior developer! At least that's what hundreds
-                  of our graduates did!{" "}
+                  working as a junior developer! At least that&#39;s what
+                  hundreds of our graduates did!{" "}
                 </p>
                 <p>
                   9-week in-person full-time bootcamp in Barcelona Code School.
@@ -1340,9 +1340,9 @@ const Listings = () => {
                   <br />
                   As a JavaScript developer, you know how important it is to
                   have a strong understanding of the language and its
-                  intricacies. And if you're looking to take your skills to the
-                  next level and land your dream job, then you need to ace your
-                  JavaScript interviews.
+                  intricacies. And if you&#39;re looking to take your skills to
+                  the next level and land your dream job, then you need to ace
+                  your JavaScript interviews.
                 </p>
               </div>
               <div className="fs-s flex items-center">
@@ -1449,13 +1449,13 @@ const Listings = () => {
               </div>
               <div className="mb-4">
                 <p>
-                  It's time to take a break from building side projects on
+                  It&#39;s time to take a break from building side projects on
                   Heroku, GitHub, or your own environment.
                 </p>
                 <p>
-                  Join Five.Co's 2023 Hackathon: build the best app and win more
-                  than US$9000 in prizes! Put your JavaScript, TypeScript, and
-                  SQL skills to the test. ⌨️{" "}
+                  Join Five.Co&#39;s 2023 Hackathon: build the best app and win
+                  more than US$9000 in prizes! Put your JavaScript, TypeScript,
+                  and SQL skills to the test. ⌨️{" "}
                 </p>
                 <p>Submissions close on June 9th, 2023.</p>
                 <p>
@@ -2585,12 +2585,12 @@ const Listings = () => {
                   Attention, <a href="_">Ruby on Rails</a> enthusiasts and
                   aspiring developers! We are thrilled to announce the release
                   of an invaluable resource designed to catapult your
-                  programming career to new heights. Introducing "
+                  programming career to new heights. Introducing &#34;
                   <a href="https://www.amazon.com/dp/B0C5MG4ZS1">
                     The Ruby on Rails Interview Bible 2023
                   </a>
-                  " - a comprehensive guide that equips you with the knowledge,
-                  strategies...
+                  &#34; - a comprehensive guide that equips you with the
+                  knowledge, strategies...
                 </p>
               </div>
               <div className="fs-s flex items-center">
@@ -3336,7 +3336,7 @@ const Listings = () => {
               </div>
               <div className="mb-4">
                 <p>
-                  I've just launched the <em>Public Beta</em> of{" "}
+                  I&#39;ve just launched the <em>Public Beta</em> of{" "}
                   <strong>Vrite</strong> - a CMS focused on technical content -
                   like programming blog posts here on DEV, documentation, and
                   others. It includes features like built-in Kanban, code
@@ -3588,9 +3588,9 @@ const Listings = () => {
               </div>
               <div className="mb-4">
                 <p>
-                  Program like it's 1989 with ergonomics of 2023. Performance
-                  with simplicity for web and database applications, middleware,
-                  anything. <br />
+                  Program like it&#39;s 1989 with ergonomics of 2023.
+                  Performance with simplicity for web and database applications,
+                  middleware, anything. <br />
                   <a href="https://vely.dev">https://vely.dev</a>{" "}
                 </p>
               </div>
@@ -3704,7 +3704,9 @@ const Listings = () => {
                   complex, customizable, multipage web layouts for Python apps
                   or dashboards, with no JS/CSS/HTML involved.
                 </p>
-                <p>It's an alternative to Plotly Dash, Anvil and Streamlit.</p>
+                <p>
+                  It&#39;s an alternative to Plotly Dash, Anvil and Streamlit.
+                </p>
               </div>
               <div className="fs-s flex items-center">
                 <a href="/_" className="crayons-avatar crayons-avatar--l mr-2">
@@ -3809,13 +3811,13 @@ const Listings = () => {
                   investing in them❓❓❓
                   <br />
                   <br />
-                  Get out of "Tutorial Purgatory" &amp; join our remote team
-                  projects &amp; supportive community to turn what you learn
-                  into the experience needed to get a Dev job! The experience
-                  employers are looking for!
+                  Get out of &#34;Tutorial Purgatory&#34; &amp; join our remote
+                  team projects &amp; supportive community to turn what you
+                  learn into the experience needed to get a Dev job! The
+                  experience employers are looking for!
                   <br />
                   <br />
-                  See how @ <a href="/_">https://chingu.io</a> - It's FREE!
+                  See how @ <a href="/_">https://chingu.io</a> - It&#39;s FREE!
                 </p>
               </div>
               <div className="fs-s flex items-center">
@@ -3922,7 +3924,7 @@ const Listings = () => {
                   <a href="https://incubator.text.com/text-accelerated">
                     https://incubator.text.com/text-accelerated
                   </a>
-                  ). We're looking for teams or individuals working on their
+                  ). We&#39;re looking for teams or individuals working on their
                   side projects/start-ups. We give you 1/1 support of people
                   experienced in product companies and 8 product-related
                   workshops. Text Accelerated program is free of charge and open
