@@ -110,7 +110,7 @@ const Listings = () => {
         <div
           id="button"
           className="single-listing relative listings-card"
-          style="grid-row-end: span 25;"
+          style={{ gridRowEnd: "span 25" }}
         >
           <div className="listing-content p-4">
             <div className="relative">
@@ -1031,7 +1031,7 @@ const Listings = () => {
         <div
           id="button-8"
           className="single-listing relative crayons-card"
-          style="grid-row-end: span 25;"
+          style={{ gridRowEnd: "span 25" }}
         >
           <div className="listing-content p-4">
             <div className="relative">
@@ -1376,7 +1376,7 @@ const Listings = () => {
         <div
           id="button-11"
           className="single-listing relative crayons-card"
-          style="grid-row-end: span 25;"
+          style={{ gridRowEnd: "span 25" }}
         >
           <div className="listing-content p-4">
             <div className="relative">
@@ -2632,7 +2632,7 @@ const Listings = () => {
         <div
           id="button-22"
           className="single-listing relative crayons-card"
-          style="grid-row-end: span 25;"
+          style={{ gridRowEnd: "span 25" }}
         >
           <div className="listing-content p-4">
             <div className="relative">
@@ -2747,7 +2747,7 @@ const Listings = () => {
         <div
           id="button-23"
           className="single-listing relative crayons-card"
-          style="grid-row-end: span 25;"
+          style={{ gridRowEnd: "span 25" }}
         >
           <div className="listing-content p-4">
             <div className="relative">
@@ -3149,7 +3149,7 @@ const Listings = () => {
         <div
           id="button-27"
           className="single-listing relative crayons-card"
-          style="grid-row-end: span 25;"
+          style={{ gridRowEnd: "span 25" }}
         >
           <div className="listing-content p-4">
             <div className="relative">
@@ -3626,7 +3626,7 @@ const Listings = () => {
         <div
           id="button-31"
           className="single-listing relative crayons-card"
-          style="grid-row-end: span 25;"
+          style={{ gridRowEnd: "span 25" }}
         >
           <div className="listing-content p-4">
             <div className="relative">
