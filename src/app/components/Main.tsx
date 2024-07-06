@@ -4,11 +4,12 @@ import { usePathname } from "next/navigation";
 import Link from "next/link";
 import Image from "next/image";
 import Listings from "../listings/page";
+import Videos from "../videos/page";
 
 import * as ReactDOM from "react-dom/client";
 import { useState, useEffect } from "react";
 
-export default function Main() {
+const Main = () => {
   const pathname = usePathname();
 
   return (
@@ -51,7 +52,7 @@ export default function Main() {
                 </p>
                 <div>
                   <Link
-                    href="create-account/index.html"
+                    href="/create"
                     className="c-cta c-cta--branded justify-center w-100 mb-1"
                     aria-label="Create new account"
                   >
@@ -207,9 +208,9 @@ export default function Main() {
                   <li>
                     <Link
                       className={`link ${
-                        pathname === "/videos" ? "active" : ""
+                        pathname === "../videos" ? "active" : ""
                       }`}
-                      href="/videos"
+                      href="../videos"
                     >
                       <span className="c-link__icon">
                         <svg
@@ -2282,7 +2283,9 @@ export default function Main() {
                             </span>
                             <span className="aggregate_reactions_counter">
                               83
-                              <span className="hidden s:inline">reactions</span>
+                              <span className="hidden s:inline">
+                                &nbsp;reactions
+                              </span>
                             </span>
                           </div>
                         </a>
@@ -2500,7 +2503,7 @@ export default function Main() {
                               <span className="aggregate_reactions_counter">
                                 4
                                 <span className="hidden s:inline">
-                                  reactions
+                                  &nbsp;reactions
                                 </span>
                               </span>
                             </div>
@@ -2692,7 +2695,7 @@ export default function Main() {
                               <span className="aggregate_reactions_counter">
                                 5
                                 <span className="hidden s:inline">
-                                  reactions
+                                  &nbsp;reactions
                                 </span>
                               </span>
                             </div>
@@ -2780,7 +2783,7 @@ export default function Main() {
                     <div>
                       <div className="align-center">
                         <a
-                          href="/enter?state=new-user"
+                          href="/create"
                           className="crayons-btn crayons-btn-c w-75"
                         >
                           Create account
@@ -2789,7 +2792,7 @@ export default function Main() {
                       <div className="align-center mt-4">
                         <span>
                           Already have an account?
-                          <a href="/enter" className="sign" aria-label="Log in">
+                          <a href="/sign" className="sign" aria-label="Log in">
                             Sign in
                           </a>
                         </span>
@@ -2974,7 +2977,7 @@ export default function Main() {
                               <span className="aggregate_reactions_counter">
                                 12
                                 <span className="hidden s:inline">
-                                  reactions
+                                  &nbsp;reactions
                                 </span>
                               </span>
                             </div>
@@ -3933,7 +3936,7 @@ export default function Main() {
                               <span className="aggregate_reactions_counter">
                                 5
                                 <span className="hidden s:inline">
-                                  reactions
+                                  &nbsp;reactions
                                 </span>
                               </span>
                             </div>
@@ -4349,7 +4352,7 @@ export default function Main() {
                               <span className="aggregate_reactions_counter">
                                 6
                                 <span className="hidden s:inline">
-                                  reactions
+                                  &nbsp;reactions
                                 </span>
                               </span>
                             </div>
@@ -7366,7 +7369,7 @@ export default function Main() {
                               <span className="aggregate_reactions_counter">
                                 25
                                 <span className="hidden s:inline">
-                                  reactions
+                                  &nbsp;reactions
                                 </span>
                               </span>
                             </div>
@@ -7619,7 +7622,7 @@ export default function Main() {
                               <span className="aggregate_reactions_counter">
                                 17
                                 <span className="hidden s:inline">
-                                  reactions
+                                  &nbsp;reactions
                                 </span>
                               </span>
                             </div>
@@ -7860,7 +7863,7 @@ export default function Main() {
                               <span className="aggregate_reactions_counter">
                                 38
                                 <span className="hidden s:inline">
-                                  reactions
+                                  &nbsp;reactions
                                 </span>
                               </span>
                             </div>
@@ -8105,7 +8108,7 @@ export default function Main() {
                               <span className="aggregate_reactions_counter">
                                 46
                                 <span className="hidden s:inline">
-                                  reactions
+                                  &nbsp;reactions
                                 </span>
                               </span>
                             </div>
@@ -8367,7 +8370,7 @@ export default function Main() {
                               <span className="aggregate_reactions_counter">
                                 67
                                 <span className="hidden s:inline">
-                                  reactions
+                                  &nbsp;reactions
                                 </span>
                               </span>
                             </div>
@@ -8545,13 +8548,8 @@ export default function Main() {
                           data-preload-image="https://res.cloudinary.com/practicaldev/image/fetch/s--xfJrOzvz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4xw8f3j07j85htdi8rkz.png"
                           id="article-link-1409618"
                         >
-<<<<<<< HEAD
                           How to automatically mark a conversation as
                           &#34;answered&#34; in TalkJS
-=======
-                          How to automatically mark a conversation as &#34;answered&#34;
-                          in TalkJS
->>>>>>> 2266b85c82c21499955446b0709aa99207ae91b9
                         </a>
                       </h2>
                       <div className="crayons-story__tags">
@@ -8623,7 +8621,7 @@ export default function Main() {
                               <span className="aggregate_reactions_counter">
                                 18
                                 <span className="hidden s:inline">
-                                  reactions
+                                  &nbsp;reactions
                                 </span>
                               </span>
                             </div>
@@ -8866,7 +8864,7 @@ export default function Main() {
                               <span className="aggregate_reactions_counter">
                                 5
                                 <span className="hidden s:inline">
-                                  reactions
+                                  &nbsp;reactions
                                 </span>
                               </span>
                             </div>
@@ -9337,7 +9335,7 @@ export default function Main() {
                               <span className="aggregate_reactions_counter">
                                 12
                                 <span className="hidden s:inline">
-                                  reactions
+                                  &nbsp;reactions
                                 </span>
                               </span>
                             </div>
@@ -10031,4 +10029,6 @@ export default function Main() {
       </div>
     </>
   );
-}
+};
+
+export default Main;

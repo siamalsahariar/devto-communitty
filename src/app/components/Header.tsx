@@ -32,7 +32,7 @@ export default function Header() {
             </button>
           </span>
           <Link
-            href="/dev.png"
+            href="/dev.to"
             className="site-logo"
             aria-label="DEV Community Home"
           >
