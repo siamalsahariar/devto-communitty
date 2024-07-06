@@ -166,7 +166,7 @@ export default function Login() {
                   className="crayons-checkbox"
                   type="checkbox"
                   value="1"
-                  checked="checked"
+                  checked={true}
                   name="user[remember_me]"
                   id="user_remember_me"
                 />
