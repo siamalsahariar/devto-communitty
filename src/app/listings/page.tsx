@@ -234,7 +234,7 @@ const Listings = () => {
         <div
           id="button-1"
           className="single-listing relative listings-card"
-          style="grid-row-end: span 24;"
+          style={{ gridRowEnd: "span 24" }}
         >
           <div className="listing-content p-4">
             <div className="relative">
@@ -352,7 +352,7 @@ const Listings = () => {
         <div
           id="button-2"
           className="single-listing relative crayons-card"
-          style="grid-row-end: span 21;"
+          style={{ gridRowEnd: "span 21" }}
         >
           <div className="listing-content p-4">
             <div className="relative">
@@ -454,7 +454,7 @@ const Listings = () => {
         <div
           id="button-3"
           className="single-listing relative crayons-card"
-          style="grid-row-end: span 22;"
+          style={{ gridRowEnd: "span 22" }}
         >
           <div className="listing-content p-4">
             <div className="relative">
@@ -560,7 +560,7 @@ const Listings = () => {
         <div
           id="button-4"
           className="single-listing relative crayons-card"
-          style="grid-row-end: span 24;"
+          style={{ gridRowEnd: "span 24" }}
         >
           <div className="listing-content p-4">
             <div className="relative">
@@ -677,7 +677,7 @@ const Listings = () => {
         <div
           id="button-5"
           className="single-listing relative crayons-card"
-          style="grid-row-end: span 27;"
+          style={{ gridRowEnd: "span 27" }}
         >
           <div className="listing-content p-4">
             <div className="relative">
@@ -795,7 +795,7 @@ const Listings = () => {
         <div
           id="button-6"
           className="single-listing relative crayons-card"
-          style="grid-row-end: span 26;"
+          style={{ gridRowEnd: "span 26" }}
         >
           <div className="listing-content p-4">
             <div className="relative">
@@ -909,7 +909,7 @@ const Listings = () => {
         <div
           id="button-7"
           className="single-listing relative crayons-card"
-          style="grid-row-end: span 30;"
+          style={{ gridRowEnd: "span 30" }}
         >
           <div className="listing-content p-4">
             <div className="relative">
@@ -1147,7 +1147,7 @@ const Listings = () => {
         <div
           id="button-9"
           className="single-listing relative crayons-card"
-          style="grid-row-end: span 22;"
+          style={{ gridRowEnd: "span 22" }}
         >
           <div className="listing-content p-4">
             <div className="relative">
@@ -1252,7 +1252,7 @@ const Listings = () => {
         <div
           id="button-10"
           className="single-listing relative crayons-card"
-          style="grid-row-end: span 26;"
+          style={{ gridRowEnd: "span 26" }}
         >
           <div className="listing-content p-4">
             <div className="relative">
@@ -1498,7 +1498,7 @@ const Listings = () => {
         <div
           id="button-12"
           className="single-listing relative crayons-card"
-          style="grid-row-end: span 22;"
+          style={{ gridRowEnd: "span 22" }}
         >
           <div className="listing-content p-4">
             <div className="relative">
@@ -1611,7 +1611,7 @@ const Listings = () => {
         <div
           id="button-13"
           className="single-listing relative crayons-card"
-          style="grid-row-end: span 24;"
+          style={{ gridRowEnd: "span 24" }}
         >
           <div className="listing-content p-4">
             <div className="relative">
@@ -1723,7 +1723,7 @@ const Listings = () => {
         <div
           id="button-14"
           className="single-listing relative crayons-card"
-          style="grid-row-end: span 17;"
+          style={{ gridRowEnd: "span 17" }}
         >
           <div className="listing-content p-4">
             <div className="relative">
@@ -1822,7 +1822,7 @@ const Listings = () => {
         <div
           id="button-15"
           className="single-listing relative crayons-card"
-          style="grid-row-end: span 19;"
+          style={{ gridRowEnd: "span 19" }}
         >
           <div className="listing-content p-4">
             <div className="relative">
@@ -1942,7 +1942,7 @@ const Listings = () => {
         <div
           id="button-16"
           className="single-listing relative crayons-card"
-          style="grid-row-end: span 18;"
+          style={{ gridRowEnd: "span 18" }}
         >
           <div className="listing-content p-4">
             <div className="relative">
@@ -2050,7 +2050,7 @@ const Listings = () => {
         <div
           id="button-17"
           className="single-listing relative crayons-card"
-          style="grid-row-end: span 21;"
+          style={{ gridRowEnd: "span 21" }}
         >
           <div className="listing-content p-4">
             <div className="relative">
@@ -2168,7 +2168,7 @@ const Listings = () => {
         <div
           id="button-18"
           className="single-listing relative crayons-card"
-          style="grid-row-end: span 19;"
+          style={{ gridRowEnd: "span 19" }}
         >
           <div className="listing-content p-4">
             <div className="relative">
@@ -2281,7 +2281,7 @@ const Listings = () => {
         <div
           id="button-19"
           className="single-listing relative crayons-card"
-          style="grid-row-end: span 21;"
+          style={{ gridRowEnd: "span 21" }}
         >
           <div className="listing-content p-4">
             <div className="relative">
@@ -2391,7 +2391,7 @@ const Listings = () => {
         <div
           id="button-20"
           className="single-listing relative crayons-card"
-          style="grid-row-end: span 22;"
+          style={{ gridRowEnd: "span 22" }}
         >
           <div className="listing-content p-4">
             <div className="relative">
@@ -2500,7 +2500,7 @@ const Listings = () => {
         <div
           id="button-21"
           className="single-listing relative crayons-card"
-          style="grid-row-end: span 26;"
+          style={{ gridRowEnd: "span 26" }}
         >
           <div className="listing-content p-4">
             <div className="relative">
@@ -2843,7 +2843,7 @@ const Listings = () => {
         <div
           id="button-24"
           className="single-listing relative crayons-card"
-          style="grid-row-end: span 24;"
+          style={{ gridRowEnd: "span 24" }}
         >
           <div className="listing-content p-4">
             <div className="relative">
@@ -2954,7 +2954,7 @@ const Listings = () => {
         <div
           id="button-25"
           className="single-listing relative crayons-card"
-          style="grid-row-end: span 17;"
+          style={{ gridRowEnd: "span 17" }}
         >
           <div className="listing-content p-4">
             <div className="relative">
@@ -3047,7 +3047,7 @@ const Listings = () => {
         <div
           id="button-26"
           className="single-listing relative crayons-card"
-          style="grid-row-end: span 16;"
+          style={{ gridRowEnd: "span 16" }}
         >
           <div className="listing-content p-4">
             <div className="relative">
@@ -3258,7 +3258,7 @@ const Listings = () => {
         <div
           id="button-28"
           className="single-listing relative crayons-card"
-          style="grid-row-end: span 27;"
+          style={{ gridRowEnd: "span 27" }}
         >
           <div className="listing-content p-4">
             <div className="relative">
@@ -3385,7 +3385,7 @@ const Listings = () => {
         <div
           id="button-29"
           className="single-listing relative crayons-card"
-          style="grid-row-end: span 31;"
+          style={{ gridRowEnd: "span 31" }}
         >
           <div className="listing-content p-4">
             <div className="relative">
@@ -3516,7 +3516,7 @@ const Listings = () => {
         <div
           id="button-30"
           className="single-listing relative crayons-card"
-          style="grid-row-end: span 21;"
+          style={{ gridRowEnd: "span 21" }}
         >
           <div className="listing-content p-4">
             <div className="relative">
@@ -3740,7 +3740,7 @@ const Listings = () => {
         <div
           id="button-32"
           className="single-listing relative crayons-card"
-          style="grid-row-end: span 28;"
+          style={{ gridRowEnd: "span 28" }}
         >
           <div className="listing-content p-4">
             <div className="relative">
@@ -3858,7 +3858,7 @@ const Listings = () => {
         <div
           id="button-33"
           className="single-listing relative crayons-card"
-          style="grid-row-end: span 27;"
+          style={{ gridRowEnd: "span 27" }}
         >
           <div className="listing-content p-4">
             <div className="relative">
@@ -3963,7 +3963,7 @@ const Listings = () => {
         <div
           id="button-34"
           className="single-listing relative crayons-card"
-          style="grid-row-end: span 27;"
+          style={{ gridRowEnd: "span 27" }}
         >
           <div className="listing-content p-4">
             <div className="relative">
@@ -4074,7 +4074,7 @@ const Listings = () => {
         <div
           id="button-35"
           className="single-listing relative crayons-card"
-          style="grid-row-end: span 24;"
+          style={{ gridRowEnd: "span 24" }}
         >
           <div className="listing-content p-4">
             <div className="relative">
